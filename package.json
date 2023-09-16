@@ -4,8 +4,8 @@
   "description": "Small project intended to familiarize myself with the Webpack bundler",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --watch",
-    "start": "webpack serve --open"
+    "build": "webpack",
+    "start": "webpack serve"
   },
   "keywords": [],
   "author": "",
